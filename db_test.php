@@ -1,7 +1,7 @@
 <?php
 
 $connection = new mysqli(
-    "127.0.0.1",
+    "localhost",
     "root",
     "",
     "user_management_db",
